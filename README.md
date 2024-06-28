@@ -38,10 +38,10 @@ This recommendation system:
 -python recommendation_system.py
 
 ## Example Output
-**Recommendations for <Movie Title>: 
--1. Similar Movie 1
--2. Similar Movie 2
--...
+- Recommendations for <Movie Title>: 
+- 1. Similar Movie 1
+- 2. Similar Movie 2
+- ...
 ## Visualization
 The PCA plot shows the distribution of movies in a 2D space, with the queried movie highlighted in blue and the recommended movies highlighted in red.
 
