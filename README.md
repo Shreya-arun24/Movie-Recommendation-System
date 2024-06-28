@@ -32,18 +32,18 @@ This recommendation system:
 
    ```sh
    pip install numpy pandas matplotlib scikit-learn
-2.**Prepare Data Files: Ensure you have the ratings.dat and movies.dat files in the same directory as your script.
+2.**Prepare Data Files**: Ensure you have the ratings.dat and movies.dat files in the same directory as your script.
 
-3.**Run the Script: Open a terminal in your project directory and run the script:
+3.**Run the Script**: Open a terminal in your project directory and run the script:
 -python recommendation_system.py
 
-##Example Output
+## Example Output
 **Recommendations for <Movie Title>: 
 -1. Similar Movie 1
 -2. Similar Movie 2
 -...
-##Visualization
+## Visualization
 The PCA plot shows the distribution of movies in a 2D space, with the queried movie highlighted in blue and the recommended movies highlighted in red.
 
-##Conclusion
+## Conclusion
 This project demonstrates a basic movie recommendation system using collaborative filtering, SVD, and cosine similarity. It provides a simple yet effective way to recommend movies based on user ratings.
